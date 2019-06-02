@@ -1,3 +1,5 @@
+test
+
 Example Maven multi-module project
 ===
 
